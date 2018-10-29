@@ -1,0 +1,39 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #293133;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+  height: 100%;
+}
+
+#graph {
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  background-color: white;
+  box-shadow: 3px 3px 20px;
+  border-radius: 2px;
+}
+
+#tooltip {
+  position: absolute;
+  text-align: left;
+  padding: 5px;
+  font-size: 15px;
+  font-family: "Lato", sans-serif;
+  background: lightgray;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.tooltipSpan {
+  display: inline-block;
+  width: 150px;
+}
