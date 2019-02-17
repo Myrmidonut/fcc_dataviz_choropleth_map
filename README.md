@@ -3,7 +3,7 @@
 ## Introduction
 This choropleth map displays the percentage of the population with a Bachelors degree or higher for each county on the United States of America. Different colors represent the different data levels and give a quick indication of the education levels over the whole country.
 
-This project is part of freeCodeCamps Information Security and Quality Assurance certificate.
+This project is part of freeCodeCamps Data Visualization certificate.
 
 ## Project Requirements
 * The choropleth should have a title with a corresponding id="title".
@@ -24,6 +24,9 @@ https://raw.githubusercontent.com/no-stack-dub-sack/testable-projects-fcc/master
 
 * US County Data:  
 https://raw.githubusercontent.com/no-stack-dub-sack/testable-projects-fcc/master/src/data/choropleth_map/counties.json
+
+## Final Project
+https://myrmidonut.github.io/fcc_dataviz_choropleth_map
 
 ## Preview Images
 ### Main Screen:
