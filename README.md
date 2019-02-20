@@ -3,6 +3,8 @@
 ## Introduction
 This choropleth map displays the percentage of the population with a Bachelors degree or higher for each county on the United States of America. Different colors represent the different data levels and give a quick indication of the education levels over the whole country.
 
+This choropleth map is made with [D3](https://d3js.org/).
+
 This project is part of freeCodeCamps Data Visualization certificate.
 
 ## Project Requirements
