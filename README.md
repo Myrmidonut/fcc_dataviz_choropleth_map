@@ -7,6 +7,8 @@ This choropleth map is made with [D3](https://d3js.org/).
 
 This project is part of freeCodeCamps Data Visualization certificate.
 
+***
+
 ## Project Requirements
 * The choropleth should have a title with a corresponding id="title".
 * The choropleth should have a description element with a corresponding id="description".
@@ -20,6 +22,8 @@ This project is part of freeCodeCamps Data Visualization certificate.
 * When hovering over an area a tooltip with a corresponding id="tooltip" shows up which displays more information about the area.
 * The tooltip should have a data-education property that corresponds to the data-education of the active area.
 
+***
+
 ## Project Data
 * US Education Data:  
 https://raw.githubusercontent.com/no-stack-dub-sack/testable-projects-fcc/master/src/data/choropleth_map/for_user_education.json
@@ -27,8 +31,12 @@ https://raw.githubusercontent.com/no-stack-dub-sack/testable-projects-fcc/master
 * US County Data:  
 https://raw.githubusercontent.com/no-stack-dub-sack/testable-projects-fcc/master/src/data/choropleth_map/counties.json
 
+***
+
 ## Final Project
 https://myrmidonut.github.io/fcc_dataviz_choropleth_map
+
+***
 
 ## Preview Images
 ### Main Screen:
