@@ -10,7 +10,8 @@ main {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 100%;
+  min-height: 100%;
+  min-width: 1040px;
 }
 
 #graph {
@@ -19,6 +20,8 @@ main {
   background-color: white;
   box-shadow: 3px 3px 20px;
   border-radius: 2px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #tooltip {
